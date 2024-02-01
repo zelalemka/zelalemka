@@ -1,10 +1,10 @@
 ### hi hi 👋 this is zela !
 
 # 💫 about me:
-🔭 undergrad student @ university of british columbia<br>🤝 major in integrated sciences (ecology & statistics)<br>⚡ minor in gis & geographical computation<br>🌱 ux designer, data scientist, and sustainability specialist<br>💬 ask me abt 2000s flash games, stickers, or anything you can think of<br>
+🌱 ux designer, data scientist, and sustainability specialist<br>🔭 undergrad student @ university of british columbia<br>🤝 major in integrated sciences (ecology & statistics)<br>⚡ minor in gis & geographical computation<br>💬 ask me abt 2000s flash games, stickers, or anything you can think of<br>
 
 ## 💡 what i'm up to:
-❣️ building a portfolio site based on a flash game
+❣️ building a portfolio site based on a flash game<br>
 🌴 qualitative analysis on survey data in american samoa with Moore Lab
 
 
