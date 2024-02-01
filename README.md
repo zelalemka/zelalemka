@@ -1,4 +1,4 @@
-### hi hi 👋 this is zela !
+# 👋 hi hi, this is zela !
 
 # 💫 about me:
 🌱 ux designer, data scientist, and sustainability specialist<br>🔭 undergrad student @ university of british columbia<br>🤝 major in integrated sciences (ecology & statistics)<br>⚡ minor in gis & geographical computation<br>💬 ask me abt 2000s flash games, stickers, or anything you can think of<br>
