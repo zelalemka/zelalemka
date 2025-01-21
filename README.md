@@ -4,8 +4,8 @@
 🔭 undergrad student @ university of british columbia<br>🤝 major in integrated sciences (ecology & statistics)<br>🌱 minor in gis & geographical computation<br>💬 ask me abt 2000s flash games, stickers, or anything you can think of<br>
 
 ## 💡 what i'm up to:
-❣️ building a portfolio site lol
-🌴 interning with the Department of National Defense @ CFMETR (Canadian Forces Maritime Experimental and Test Ranges)
+❣️ building a portfolio site lol <br>
+🚀 interning with the Canadian Space Agency
 
 ## 🌐 connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zelalem-araya/) 
