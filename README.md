@@ -5,7 +5,7 @@
 
 ## 💡 what i'm up to:
 ❣️ building a portfolio site lol <br>
-🚀 interning with the EA on skate.
+🎮 interning with the EA on skate.
 
 ## 🌐 connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zelalem-araya/) 
